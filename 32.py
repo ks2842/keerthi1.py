@@ -1,3 +1,3 @@
 string=str(input())
-char=string.split()
-print(len(char))
+ch=string.split()
+print(len(ch))

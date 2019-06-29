@@ -1,3 +1,3 @@
-str1,str2=input().split()
-str3=str1+str2
-print(str3)
+st1,st2=input().split()
+st3=st1+st2
+print(st3)
